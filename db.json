@@ -1,0 +1,28 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "courseTitle": "Angular101",
+      "courseDescription": "Introduction to Angular 2",
+      "courseCredit": 3
+    },
+    {
+      "id": 2,
+      "tcourseTitle": "Angular201",
+      "courseDescription": "Client and Server Communication Angular 2",
+      "courseCredit": 3
+    },
+    {
+      "id": 3,
+      "courseTitle": "Angular301",
+      "courseDescription": "Fundamental to Angular 2 Routing",
+      "courseCredit": 3
+    },
+    {
+      "courseTitle": "Angular 2 Testing",
+      "courseDescription": "Angular 2 Testing Fundamentals",
+      "courseCredit": 1,
+      "id": 4
+    }
+  ]
+}
