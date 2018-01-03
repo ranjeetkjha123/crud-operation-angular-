@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+.pull-right {
+    float: right!important;
+    top: -27px;
+    display: block;
+    width: 18%;
+    position: relative;
+}
